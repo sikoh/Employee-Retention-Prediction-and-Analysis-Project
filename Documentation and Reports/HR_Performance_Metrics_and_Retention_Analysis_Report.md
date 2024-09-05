@@ -95,7 +95,10 @@ Ranges with very low employee counts include 14.25 to 15.20 years (1 employee), 
 <br>
 
 ### 4.2 Performance Scores
-[Pie chart of performance score distribution]
+<br>
+
+![image](https://github.com/user-attachments/assets/601d0ad1-1151-440d-bdd5-2e32596c7bf9)
+
 
 **Key Findings:**
 - 78.1% "Fully Meets" expectations
