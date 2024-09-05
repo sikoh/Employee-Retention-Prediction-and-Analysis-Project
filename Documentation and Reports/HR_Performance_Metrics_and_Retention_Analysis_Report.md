@@ -16,6 +16,9 @@ This project focused on analyzing and predicting employee retention to assist th
 
 **Key Finding:** 
 The company's workforce is predominantly female, with women making up 56.5% of the total employees. However, in departments like IT and Sales, there are more male employees than female ones. This shows that, although females make up the majority company-wide, men are more prevalent in these specific departments.
+
+<br>
+<br>
 ### 2.2 Age Distribution
 <br>
 
