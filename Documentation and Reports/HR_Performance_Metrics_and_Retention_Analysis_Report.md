@@ -82,9 +82,17 @@ The scatterplot analysis reveals that earnings do not vary significantly by gend
 ## 4. Employee Tenure and Performance
 
 ### 4.1 Tenure Distribution
-[Histogram of employee tenure]
+<brr>
+  
+![image](https://github.com/user-attachments/assets/af86bd71-b6be-4370-be74-14a0316ed2a0)
 
-**Key Finding:** Highest concentration of employees have 9.5-10.45 years of tenure.
+
+**Key Finding:** 
+The tenure range from 9.50 to 10.45 years has the highest number of employees, with 56 employees, indicating that this is a common tenure range among employees.There may be a need to focus on retention strategies and career development for employees around this tenure, as they represent a significant portion of the workforce.
+
+Ranges with very low employee counts include 14.25 to 15.20 years (1 employee), and 17.10 to 18.05 years and 18.05 to 19.00 years (0 and 1 employee respectively). These ranges have fewer employees, indicating they are less common. The low count of employees in the higher tenure ranges indicates potential opportunities for developing strategies to retain long-term employees and provide career growth opportunities to extend tenure.
+
+<br>
 
 ### 4.2 Performance Scores
 [Pie chart of performance score distribution]
