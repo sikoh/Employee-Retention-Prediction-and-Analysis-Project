@@ -6,15 +6,18 @@ This project focused on analyzing and predicting employee retention to assist th
 
 ### 2.1 Gender Distribution
 <br>
+![image](https://github.com/user-attachments/assets/dc317cf4-f4b0-424d-bd08-193193ea3f87)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/a3c0155b-14fc-4bfc-90e9-8205aacc4839)
 <br>
-![image](https://github.com/user-attachments/assets/dc317cf4-f4b0-424d-bd08-193193ea3f87)
-
 
 **Key Finding:** 
 The company's workforce is predominantly female, with women making up 56.5% of the total employees. However, in departments like IT and Sales, there are more male employees than female ones. This shows that, although females make up the majority company-wide, men are more prevalent in these specific departments.
 ### 2.2 Age Distribution
+<br>
+
 
 ![image](https://github.com/user-attachments/assets/39d4eaac-8f2a-4ab4-a5f1-80632a9ea5ed)
 
