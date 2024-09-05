@@ -101,12 +101,8 @@ Ranges with very low employee counts include 14.25 to 15.20 years (1 employee), 
 
 
 **Key Findings:**
-- 78.1% "Fully Meets" expectations
-- 11.9% "Exceeds"
-- 5.8% "Needs Improvement"
-- 4.2% on Performance Improvement Plan (PIP)
+The performance score distribution within the organization reveals that 78.1% of employees are classified as Fully Meets, indicating that a significant majority are meeting their performance expectations. 11.9% of employees are in the Exceeds category, representing high achievers who perform above expectations. Meanwhile, 5.8% of employees fall under Needs Improvement, suggesting areas where additional support may be required. Lastly, 4.2% of employees are currently under a Performance Improvement Plan (PIP), reflecting a small group facing more serious performance challenges.
 
-**Suggestion:** Implement targeted development programs for employees needing improvement.
 
 ### 4.3 Performance vs Tenure
 [Box plot of tenure for each performance category]
