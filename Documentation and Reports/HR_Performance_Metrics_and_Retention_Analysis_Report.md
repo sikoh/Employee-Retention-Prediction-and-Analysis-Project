@@ -137,7 +137,8 @@ Departments with lower turnover rates may offer insights into effective retentio
 
 ## 6. Department-Specific Insights
 
-[Stacked bar chart of employee counts by department and gender]
+![image](https://github.com/user-attachments/assets/ab41cd2f-1efd-4e23-9f7f-64f8a384993d)
+
 
 **Key Findings:**
 - Production has the most employees (209)
