@@ -19,6 +19,7 @@ The company's workforce is predominantly female, with women making up 56.5% of t
 
 <br>
 <br>
+
 ### 2.2 Age Distribution
 <br>
 
