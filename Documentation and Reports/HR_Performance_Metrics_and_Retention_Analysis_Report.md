@@ -123,25 +123,15 @@ Employees on a "PIP" have an average tenure of 7.92 years and a median tenure of
 
 ## 5. Retention Risk Analysis
 
-### 5.1 Top Predictors of Employee Retention
-
+### 5.1 Turnover Rate by Department
 <br>
+![image](https://github.com/user-attachments/assets/11e3893f-1dc9-4d67-ba7b-94eb60820aa8)
 
-![image](https://github.com/user-attachments/assets/9c0064f9-1720-4107-9a92-eed4cf978d0e)
+**Key Finding:** 
+Turnover rates vary significantly across departments
+Some departments show notably higher turnover rates, indicating areas of concern
+Departments with lower turnover rates may offer insights into effective retention strategies
 
-
-1. Performance Score
-2. Years Since Last Review
-3. Salary to Performance Ratio
-4. Engagement Survey Score
-5. Employee Satisfaction
-
-**Key Finding:** Performance and timely reviews are crucial for retention.
-
-**Suggestions:**
-- Implement regular performance reviews
-- Ensure fair compensation aligned with performance
-- Focus on improving employee engagement and satisfaction
 
 ## 6. Department-Specific Insights
 
