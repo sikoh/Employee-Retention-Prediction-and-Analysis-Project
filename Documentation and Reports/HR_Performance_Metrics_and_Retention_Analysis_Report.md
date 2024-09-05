@@ -105,11 +105,21 @@ The performance score distribution within the organization reveals that 78.1% of
 
 
 ### 4.3 Performance vs Tenure
-[Box plot of tenure for each performance category]
 
-**Key Finding:** "Exceeds" performers have the longest average tenure (9.86 years).
+<br>
 
-**Suggestion:** Investigate factors contributing to high performance and long tenure to replicate across the workforce.
+![image](https://github.com/user-attachments/assets/7e3d2e1a-f5e4-4689-a19e-3d4546a7e12f)
+
+
+**Key Finding:** 
+Employees with a performance score of "Exceeds" have the longest average tenure at 9.86 years, with a median tenure of 10 years. They also exhibit a high range in tenure, from 2 to 19 years, reflecting a broad distribution among top performers.
+
+In the "Fully Meets" category, employees have an average tenure of 8.37 years and a median tenure of 10 years. This group shows a tenure range from 0 to 17 years, indicating a mix of newer and more established employees who meet performance expectations.
+
+Those categorized as "Needs Improvement" have a lower average tenure of 7.39 years and a median tenure of 6.5 years. Their tenure ranges from 2 to 14 years, suggesting shorter tenure compared to higher performance categories.
+
+Employees on a "PIP" have an average tenure of 7.92 years and a median tenure of 9 years. The tenure for this group ranges from 1 to 13 years, reflecting relatively shorter tenures and indicating potential issues with long-term retention among those in performance improvement plans.
+
 
 ## 5. Retention Risk Analysis
 
