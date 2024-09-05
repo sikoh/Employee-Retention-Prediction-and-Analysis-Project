@@ -6,8 +6,7 @@ To address these findings, we recommend implementing more frequent performance r
 These actions will be crucial in enhancing workforce stability and maintaining our competitive edge in talent management.
 
 ## 1. Introduction
-- Purpose of the analysis
-- Data sources and methodology
+This project focused on analyzing and predicting employee retention to assist organizations in enhancing their HR strategies and reducing turnover.
 
 ## 2. Workforce Demographics
 
