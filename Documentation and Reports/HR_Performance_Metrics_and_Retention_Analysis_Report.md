@@ -1,10 +1,5 @@
 # HR Performance Metrics and Retention Analysis Report
 
-## Executive Summary
-Our workforce analysis reveals a predominantly female staff (56.5%) with high performance (90% meeting or exceeding expectations) but potential retention risks, particularly for employees with 9.5-10.45 years of tenure. Key factors influencing retention include performance scores, time since last review, salary-to-performance ratio, engagement, and satisfaction. 
-To address these findings, we recommend implementing more frequent performance reviews, developing targeted retention strategies for high performers, aligning compensation with performance, and launching initiatives to boost employee engagement and satisfaction. 
-These actions will be crucial in enhancing workforce stability and maintaining our competitive edge in talent management.
-
 ## 1. Introduction
 This project focused on analyzing and predicting employee retention to assist organizations in enhancing their HR strategies and reducing turnover.
 
