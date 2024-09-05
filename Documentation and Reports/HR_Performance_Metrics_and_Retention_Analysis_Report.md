@@ -5,7 +5,8 @@ This project focused on analyzing and predicting employee retention to assist th
 ## 2. Workforce Demographics
 
 ### 2.1 Gender Distribution
-<img src="Images/Distribution of Employees by Gender.png" alt="Pie chart showing 56.5% female, 43.5% male">
+![image](https://github.com/user-attachments/assets/a3c0155b-14fc-4bfc-90e9-8205aacc4839)
+
 [Pie chart showing 56.5% female, 43.5% male]
 
 **Key Finding:** While the overall workforce is predominantly female, IT and Sales departments have more male employees.
