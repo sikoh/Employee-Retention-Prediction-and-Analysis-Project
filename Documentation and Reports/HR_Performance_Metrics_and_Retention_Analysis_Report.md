@@ -6,6 +6,7 @@ This project focused on analyzing and predicting employee retention to assist th
 
 ### 2.1 Gender Distribution
 <br>
+
 ![image](https://github.com/user-attachments/assets/dc317cf4-f4b0-424d-bd08-193193ea3f87)
 
 <br>
