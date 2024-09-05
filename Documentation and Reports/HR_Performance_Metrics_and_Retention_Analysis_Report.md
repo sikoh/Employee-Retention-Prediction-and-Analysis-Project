@@ -37,18 +37,35 @@ The age at hiring ranges from a minimum of 19 years to a maximum of 63 years. No
 ## 3. Salary Analysis
 
 ### 3.1 Overall Salary Distribution
-[Histogram of salaries with mean and median marked]
+<br>
 
-**Key Finding:** Salary distribution is right-skewed (mean: $69,020, median: $62,810).
+![image](https://github.com/user-attachments/assets/963495cd-35bc-4cce-aa99-3606a8b877bf)
+
+
+**Key Finding:** 
+The salary distribution in the dataset shows considerable variation, with a right-skewed distribution. This skew implies that a portion of employees earn significantly higher salaries, pulling the mean (69,020.68) upwards compared to the median(62,810.00). Specifically, the presence of a maximum salary as high as $250,000.00 indicates outliers or high earners in the dataset. This distribution should be considered when evaluating salary equity and making compensation decisions.
+
+<br>
 
 ### 3.2 Salary by Department
-[Box plot of salaries across departments]
+
+<br>
+
+![image](https://github.com/user-attachments/assets/21883e2b-0a11-4188-b85f-d3b2fc8f9c22)
+
 
 **Key Findings:** 
-- Highest salaries in Executive Office, IT/IS, and Software Engineering
-- No significant gender-based salary differences, but highest earners tend to be female
+Production salaries are relatively close to the median (59,472.00) with a broad range at the upper end. The average (59,953.55) is slightly higher than the median, suggesting that higher salaries are pulling up the average. The maximum salary (170,500) is considerably higher than the 75th percentile (64,066.00), indicating possible outliers or specialized roles with high compensation.
 
-**Suggestion:** Review salary structures to ensure equity across departments and genders.
+The IT/IS department exhibits a high average salary (97,064.64) with significant variability. The maximum salary (220,450.00) is notably higher than the 75th percentile (106,844.50), suggesting the presence of high earners or potential outliers . The wide range between the 25th (77,417.75) and 75th percentiles indicates a diverse salary structure.
+
+Software Engineering shows high average (94,989.45) and median (95,660.00) salaries with a relatively narrow range between the 25th (89,601.50) and 75th (100,807.50) percentiles, suggesting consistent compensation levels. The maximum salary (108,987.00) is higher than the 75th percentile, indicating the presence of high earners.
+
+The Admin Offices show a considerable salary range with a maximum salary ($106,367.00) that is significantly higher than the median (63,003.00). The average salary (71,791.89) is higher than the median, suggesting a few high earners could be skewing the average. The gap between the 25th (55,000.00) and 75th (93,046.00) percentiles indicates variability within this department.
+
+Sales department salaries are fairly balanced with the average (69,061.26) close to the median (65,310.00). The maximum salary (180,000.00) is significantly higher than the 75th percentile (70,506.50), suggesting a few high earners. The relatively narrow range between the 25th (61,561.50) and 75th percentiles indicates moderate variability.
+
+The Executive Office currently has a single employee in the dataset, therefore the salary data reflects only one individual’s compensation (250000.00). As a result, there is no variation or outliers in the pay structure for this department.
 
 ## 4. Employee Tenure and Performance
 
