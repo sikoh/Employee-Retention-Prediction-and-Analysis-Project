@@ -1,8 +1,7 @@
 # HR Performance Metrics and Retention Analysis Report
 
 ## 1. Introduction
-This project focused on analyzing and predicting employee retention to assist organizations in enhancing their HR strategies and reducing turnover.
-
+This project focused on analyzing and predicting employee retention to assist the organization in enhancing its HR strategies and reducing turnover.
 ## 2. Workforce Demographics
 
 ### 2.1 Gender Distribution
