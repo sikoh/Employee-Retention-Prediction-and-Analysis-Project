@@ -7,12 +7,9 @@ This project focused on analyzing and predicting employee retention to assist th
 ### 2.1 Gender Distribution
 ![image](https://github.com/user-attachments/assets/a3c0155b-14fc-4bfc-90e9-8205aacc4839)
 
-[Pie chart showing 56.5% female, 43.5% male]
 
-**Key Finding:** While the overall workforce is predominantly female, IT and Sales departments have more male employees.
-
-**Suggestion:** Consider initiatives to balance gender representation across all departments.
-
+**Key Finding:** 
+The company's workforce is predominantly female, with women making up 56.5% of the total employees. However, in departments like IT and Sales, there are more male employees than female ones. This shows that, although females make up the majority company-wide, men are more prevalent in these specific departments.
 ### 2.2 Age Distribution
 [Histogram of Age at Hiring]
 
