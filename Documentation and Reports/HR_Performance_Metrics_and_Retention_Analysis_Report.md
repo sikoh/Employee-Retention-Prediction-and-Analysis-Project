@@ -124,7 +124,11 @@ Employees on a "PIP" have an average tenure of 7.92 years and a median tenure of
 ## 5. Retention Risk Analysis
 
 ### 5.1 Top Predictors of Employee Retention
-[Bar chart of feature importance from ML model]
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9c0064f9-1720-4107-9a92-eed4cf978d0e)
+
 
 1. Performance Score
 2. Years Since Last Review
