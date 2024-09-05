@@ -137,16 +137,27 @@ Departments with lower turnover rates may offer insights into effective retentio
 
 ## 6. Department-Specific Insights
 
+<br>
+  
 ![image](https://github.com/user-attachments/assets/ab41cd2f-1efd-4e23-9f7f-64f8a384993d)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/79a06c42-c4b0-41b7-80ac-85db1c53dfd5)
 
 **Key Findings:**
-- Production has the most employees (209)
-- Sales department has the highest average tenure (10.06 years)
+Production employees have an average tenure of 8 years and a median of 10 years, with a maximum tenure of 17 years, reflecting a broad range of experience within the large group of 209 employees.
 
-**Suggestions:**
-- Develop department-specific retention strategies
-- Investigate and replicate positive factors from the Sales department
+In the IT/IS department, employees have an average tenure of 8.24 years, with a median of 9 years and a maximum tenure of 14 years, indicating a stable range of experience among the 50 employees.
+
+Software Engineering employees have an average tenure of 8.64 years, with a median of 10 years and a maximum of 13 years, showing a good level of experience within the 11 employees.
+
+The Admin Offices department has an average tenure of 9 years, with a median tenure of 10 years and a maximum of 16 years. However, due to a small sample size of 9 employees, there is a relatively high variability in tenure.
+
+The Sales department has the highest average tenure at 10.06 years, with a median of 10 years and a maximum of 19 years, suggesting a strong retention rate among 31 employees.
+
+Lastly, Executive Office shows a single employee with a tenure of 12 years, resulting in no standard deviation due to the lack of variance.
+
 
 ## 7. Recommendations
 
