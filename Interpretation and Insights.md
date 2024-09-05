@@ -1,5 +1,6 @@
 # Employee Retention Model Comparison
 
+
 ## Overview
 
 This project evaluates and compares the performance of various machine learning models for predicting employee retention. The models assessed include Logistic Regression, Random Forest, Gradient Boosting, and Support Vector Machine (SVM). The goal is to determine which model provides the best balance of accuracy, generalization, and interpretability for the given task.
