@@ -67,7 +67,8 @@ Sales department salaries are fairly balanced with the average (69,061.26) close
 
 The Executive Office currently has a single employee in the dataset, therefore the salary data reflects only one individual’s compensation (250000.00). As a result, there is no variation or outliers in the pay structure for this department.
 
-
+<br>
+<br>
 
 ### 3.3 Salary by Gender and Age
 <br> 
