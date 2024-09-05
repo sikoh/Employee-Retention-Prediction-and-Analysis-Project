@@ -125,7 +125,9 @@ Employees on a "PIP" have an average tenure of 7.92 years and a median tenure of
 
 ### 5.1 Turnover Rate by Department
 <br>
+
 ![image](https://github.com/user-attachments/assets/11e3893f-1dc9-4d67-ba7b-94eb60820aa8)
+
 
 **Key Finding:** 
 Turnover rates vary significantly across departments
