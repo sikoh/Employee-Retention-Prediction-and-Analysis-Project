@@ -67,6 +67,17 @@ Sales department salaries are fairly balanced with the average (69,061.26) close
 
 The Executive Office currently has a single employee in the dataset, therefore the salary data reflects only one individual’s compensation (250000.00). As a result, there is no variation or outliers in the pay structure for this department.
 
+
+
+### 3.3 Salary by Gender and Age
+<br> 
+
+![image](https://github.com/user-attachments/assets/17f13ef3-ff5f-4dfb-ba66-46297f208af5)
+
+**Key Findings:** 
+The scatterplot analysis reveals that earnings do not vary significantly by gender across the dataset. However, it is notable that the highest earners are predominantly female. Additionally, there is a marked decrease in high earners among employees older than 63, indicating that high earnings are concentrated within younger age groups.
+
+
 ## 4. Employee Tenure and Performance
 
 ### 4.1 Tenure Distribution
