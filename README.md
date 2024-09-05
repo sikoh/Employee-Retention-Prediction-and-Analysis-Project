@@ -1,6 +1,6 @@
 # Employee Retention Prediction and Analysis Project
 
-Welcome to the Employee Retention Prediction and Analysis Project repository! This project focused on analyzing and predicting employee retention to assist organizations in enhancing their HR strategies and reducing turnover. Below is an overview of the project's structure and key components.
+Welcome to the Employee Retention Prediction and Analysis Project repository! TThis project focused on analyzing and predicting employee retention to assist the organization in enhancing its HR strategies and reducing turnover. Below is an overview of the project's structure and key components.
 
 ## Table of Contents
 
