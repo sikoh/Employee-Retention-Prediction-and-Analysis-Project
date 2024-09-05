@@ -1,6 +1,6 @@
 # Documentation
 
-## Detailed documentation of methodologies, procedures, and findings.
+In-Depth Methodology, Procedures, and Findings Documentation
 
 ### 1. Data Preparation and Feature Engineering:
    - Handled missing values and converted date columns
